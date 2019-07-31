@@ -15,6 +15,7 @@ end
 def multiplication(num1, num2)
   multiply = 10 * 8
 end
+multiple = 
 
 def modulo(num1, num2)
   num1 % num2
@@ -22,5 +23,5 @@ end
 modulo(1, 2)
 
 def square_root(num)
-  square = 4**3
+  Math.sqrt(num)
 end
