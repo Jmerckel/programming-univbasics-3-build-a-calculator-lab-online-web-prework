@@ -1,7 +1,7 @@
 def addition(num1, num2)
-  add = 5 + 4
+  sum = 5 + 4
 end
-add
+sum
 
 def subtraction(num1, num2)
   subtract = 9 - 8
