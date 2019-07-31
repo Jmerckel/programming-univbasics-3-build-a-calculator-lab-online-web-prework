@@ -25,4 +25,3 @@ end
 def square_root(num)
   square = 4**3
 end
-square
